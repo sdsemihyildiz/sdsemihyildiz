@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Semih a.k.a Semoch</h1>
+<h1 align="center">Hi , I'm Semih a.k.a Semoch. Welcome to my GitHub profile 🌝</h1>
 <h3 align="center">Coffee addicted developer | Currently learning JAVA ex Psychologist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdsemihyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="sdsemihyildiz" /> </p>
