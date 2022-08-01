@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/semiihyildizz" target="blank"><img src="https://img.shields.io/twitter/follow/semiihyildizz?logo=twitter&style=for-the-badge" alt="semiihyildizz" /></a> </p>
 
-- 🔭 I’m currently working on [PatikaDev Bootcamp Acceleration Program](patika.dev)
+- 🔭 I’m currently working on **PatikaDev Bootcamp Acceleration Program**
 
 - 🌱 I’m currently learning **JAVA.**
 
