@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **PatikaDev Bootcamp Acceleration Program**
 
-- 🌱 I’m currently learning **JAVA, HTML, CSS, Javascript.**
+- 🌱 I’m learning **JAVA, HTML, CSS, Javascript, Spring.**
 
 - ⚡ About me I was a psychologist, now currently trying to be a software developer. I try to learn new things by researching and reading, so I continue to improve myself. I aim to be a Full-Stack Developer in the future and I am confidently on this path right now.
 
