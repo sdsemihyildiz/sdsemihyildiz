@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Semih. Welcome to my GitHub profile 🌝</h1>
-<h3 align="center">Coffee addicted developer | Currently learning JAVA ex Psychologist</h3>
+<h3 align="center">Coffee addicted developer | Currently learning JAVA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdsemihyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="sdsemihyildiz" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/semiihyildizz" target="blank"><img src="https://img.shields.io/twitter/follow/semiihyildizz?logo=twitter&style=for-the-badge" alt="semiihyildizz" /></a> </p>
 
-- 🔭 I’m currently working on **PatikaDev Bootcamp Acceleration Program**
-
-- 🌱 I’m learning **JAVA, HTML, CSS, Javascript, Spring.**
+- 🌱 I’m learning **JAVA, Spring.**
 
 - ⚡ About me I was a psychologist, now currently trying to be a software developer. I try to learn new things by researching and reading, so I continue to improve myself. I aim to be a Full-Stack Developer in the future and I am confidently on this path right now.
 
