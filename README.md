@@ -2,7 +2,6 @@
 <h3 align="center">Coffee addicted developer | Currently learning JAVA</h3>
 
 
-<p align="left"> <a href="https://twitter.com/semiihyildizz" target="blank"><img src="https://img.shields.io/twitter/follow/semiihyildizz?logo=twitter&style=for-the-badge" alt="semiihyildizz" /></a> </p>
 
 - 🌱 I’m learning **JAVA, Spring.**
 
